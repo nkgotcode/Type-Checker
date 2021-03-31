@@ -1,0 +1,7 @@
+Expected type int but found type string
+Expected type int but found type string
+Undefined variable d
+Undefined variable d
+Expected type int but found type missing type
+Expected type missing type but found type int
+Finished typechecking!

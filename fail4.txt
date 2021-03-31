@@ -1,0 +1,7 @@
+Expected type string but found type int
+Expected type int but found type string
+Expected type string but found type int
+Expected type int but found type string
+Expected type int but found type string
+Expected type string but found type int
+Finished typechecking!
